@@ -1,0 +1,1 @@
+Hi! This is the repo used to store the Computer Vision Automated Tagger developed for the UCLA tennis team to collect data on match videos. The mp4 output shows an example, while the data processing files help us convert the output data into data that is useful for us to compute match statistics and build reports.
